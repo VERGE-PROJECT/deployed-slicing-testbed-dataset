@@ -26,7 +26,6 @@ slices. Additionally, resource utilization metrics like CPU, memory, and spectru
 help in dynamic resource management. These metrics are essential for monitoring,
 optimizing, and ensuring the reliability of 5G network slicing across diverse applications.
 
-# Getting Started
 
 The dataset is provided in .csv and .xml format, so no special software or prerequisites
 are required to access or use it.
