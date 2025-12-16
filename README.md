@@ -1,8 +1,7 @@
 # Deployed Slicing Testbed Dataset
 
 # Overview
-D
-eployed slicing dataset contains data related to the implementation, performance, and
+Deployed slicing dataset contains data related to the implementation, performance, and
 optimization of network slicing in 5G networks. Network slicing allows operators to create
 multiple virtual networks on a shared physical infrastructure, each tailored to specific
 applications. The dataset includes parameters such as latency, bandwidth, Quality of Service
@@ -32,3 +31,6 @@ are required to access or use it.
 
 
 ![image](https://github.com/user-attachments/assets/1c10b057-66a6-412b-b63b-9a11cf2936eb)
+
+# Contact
+Ömer Faruk Tuna (omer.tuna@ericsson.com)
